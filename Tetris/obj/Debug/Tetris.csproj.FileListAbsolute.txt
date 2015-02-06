@@ -1,0 +1,27 @@
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.frmTetris.resources
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Users\Rutger\Documents\School\2TIN\Webapps III\Oefeningen\Hoofdstuk_6_MVC\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Tetris\Tetris\obj\Debug\Tetris.frmTetris.resources
+F:\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.frmTetris.resources
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Users\Rutger\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
